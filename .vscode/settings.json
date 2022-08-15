@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/cb65559a-834b-46db-95ee-e48e0d9cd94e/microsoft.web/sites/subscriptions/cb65559a-834b-46db-95ee-e48e0d9cd94e/resourceGroups/PyAzureSencillo/providers/Microsoft.Web/sites/PyAzureSencillo",
+    "appService.deploySubpath": "."
+}

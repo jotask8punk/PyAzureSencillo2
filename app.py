@@ -6,6 +6,5 @@ app = Flask(__name__)
 def inicio():
     return Response("Hola", status=200)    
 
-
 if __name__ == '__main__':
     app.run()
